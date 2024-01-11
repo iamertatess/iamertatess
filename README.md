@@ -1,4 +1,4 @@
-[![MasterHead](https://img-c.udemycdn.com/course/750x422/5178116_6858.jpg)
+
 <h1 align="center">Hi 👋, I'm Mert Ateş</h1>
 <h3 align="center">Software Engineer| Front-end Developer| From Türkiye</h3>
 
