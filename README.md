@@ -3,6 +3,12 @@
 
  Hi 👋 I'm Mert Ateş, a passionate software engineer with a deep love for coding. My journey with computers began at a young age, and ever since, I've been on a mission to refine my skills and contribute meaningfully to the world of software.
 
+ 💡 Beyond just solving problems, I see software as a powerful tool for enhancing user experiences and streamlining business processes. This philosophy guides me as I work to deliver solutions that are not only functional but also user-centric.
+
+ 📫 İletişim kurmak, projeler üzerinde işbirliği yapmak veya yazılım dünyasıyla ilgili konularda sohbet etmek isterseniz, benimle [atesmert007@gmail.com] veya sosyal medya hesaplarımdan ulaşabilirsiniz.
+
+
+
 🚀 I thrive on staying abreast of the dynamic changes in the software landscape. My current focus is on mastering HTML,CSS,JS,React, driven by the belief that constant learning is key to innovation.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamertatess&label=Profile%20views&color=0e75b6&style=flat" alt="iamertatess" /> </p>
